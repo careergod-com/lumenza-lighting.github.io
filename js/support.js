@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const f=document.querySelector('[data-support]');f?.addEventListener('submit',e=>{e.preventDefault();f.reset();toast('Thanks — your support request is ready for review.')})})

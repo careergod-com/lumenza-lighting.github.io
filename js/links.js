@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const card=e.target.closest('.product');if(!card||e.target.closest('button'))return;const img=card.querySelector('[data-remote]');const title=card.querySelector('h3')?.textContent;const p=LUMENZA.catalog.find(x=>x.title===title);if(p)location.href=`pages/${p.id}.html`})
