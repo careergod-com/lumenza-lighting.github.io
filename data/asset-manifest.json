@@ -1,0 +1,42 @@
+{
+  "product_renders": [
+    "assets/products/lente-minimal.svg",
+    "assets/products/china-led-floor.svg",
+    "assets/products/crown-dome.svg",
+    "assets/products/selene-tier.svg",
+    "assets/products/viegas-wall.svg",
+    "assets/products/slim-round-led.svg",
+    "assets/products/essential-smart.svg",
+    "assets/products/focus-outdoor.svg",
+    "assets/products/sabinar-mini.svg",
+    "assets/products/black-45.svg",
+    "assets/products/eastyn-starburst.svg",
+    "assets/products/elite-globe.svg"
+  ],
+  "category_renders": [
+    "assets/categories/pendant.svg",
+    "assets/categories/floor.svg",
+    "assets/categories/table.svg",
+    "assets/categories/chandelier.svg",
+    "assets/categories/wall.svg",
+    "assets/categories/led.svg",
+    "assets/categories/smart.svg",
+    "assets/categories/outdoor.svg"
+  ],
+  "room_scenes": [
+    "assets/scenes/hero-room.svg",
+    "assets/scenes/living-room.svg",
+    "assets/scenes/dining-room.svg",
+    "assets/scenes/bedroom.svg"
+  ],
+  "collection_scenes": [
+    "assets/collections/quiet-icons.svg",
+    "assets/collections/after-dark.svg",
+    "assets/collections/smart-living.svg"
+  ],
+  "editorial_scenes": [
+    "assets/editorial/layers.svg",
+    "assets/editorial/warmth.svg",
+    "assets/editorial/scale.svg"
+  ]
+}

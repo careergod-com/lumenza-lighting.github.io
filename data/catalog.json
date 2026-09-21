@@ -5,8 +5,7 @@
     "title": "Lente Minimal Pendant",
     "description": "Soft silhouette, warm ambient glow.",
     "price": "$189",
-    "image": "assets/products/lente-minimal.svg",
-    "remote": "https://www.schoener-wohnen-kollektion.de/media/96/b3/a5/1751885384/SCHOENER-WOHNEN-Pendelleuchte%20Lente-wei%C3%9F-14606-16.jpg"
+    "image": "assets/products/lente-minimal.svg"
   },
   {
     "id": "china-led-floor",
@@ -14,8 +13,7 @@
     "title": "China LED Floor Lamp",
     "description": "Slim floor lighting for reading corners.",
     "price": "$249",
-    "image": "assets/products/china-led-floor.svg",
-    "remote": "https://www.loftmodern.com/cdn/shop/files/ChinaLEDFloor-Black_1e128d4d-4563-4106-8ed4-7278450897de.jpg?v=1707073544"
+    "image": "assets/products/china-led-floor.svg"
   },
   {
     "id": "crown-dome",
@@ -23,8 +21,7 @@
     "title": "Crown Dome Table Lamp",
     "description": "Compact task light with sculptural form.",
     "price": "$139",
-    "image": "assets/products/crown-dome.svg",
-    "remote": "https://www.dusklights.co.uk/cdn/shop/files/6898WHD1.jpg?v=1774966207&width=1200"
+    "image": "assets/products/crown-dome.svg"
   },
   {
     "id": "selene-tier",
@@ -32,8 +29,7 @@
     "title": "Selene Two-Tier Chandelier",
     "description": "Statement centerpiece with layered glass.",
     "price": "$899",
-    "image": "assets/products/selene-tier.svg",
-    "remote": "https://assets.wfcdn.com/im/80832826/compr-r85/2701/270151749/Selene%2B48%22%2B18-Light%2BModern%2BTwo-Tier%2BChandelier%2Bw/%2BSwirled%2BGlass.jpg"
+    "image": "assets/products/selene-tier.svg"
   },
   {
     "id": "viegas-wall",
@@ -41,8 +37,7 @@
     "title": "Viegas LED Wall Light",
     "description": "Architectural wall wash for modern rooms.",
     "price": "$179",
-    "image": "assets/products/viegas-wall.svg",
-    "remote": "https://onlinelighting.com.au/images/detailed/143/Eglo-Viegas-95422.jpg"
+    "image": "assets/products/viegas-wall.svg"
   },
   {
     "id": "slim-round-led",
@@ -50,8 +45,7 @@
     "title": "Slim Round LED Ceiling Light",
     "description": "Low-profile illumination for everyday spaces.",
     "price": "$119",
-    "image": "assets/products/slim-round-led.svg",
-    "remote": "https://www.optonicaled.com/uploads/live/product_images/style_compressed/2903_1708617431.png"
+    "image": "assets/products/slim-round-led.svg"
   },
   {
     "id": "essential-smart",
@@ -59,8 +53,7 @@
     "title": "Essential Smart Bulb",
     "description": "App-ready lighting for routines and scenes.",
     "price": "$29",
-    "image": "assets/products/essential-smart.svg",
-    "remote": "https://www.istorm.gr/cdn/shop/files/929002468801_01.jpg?v=1720449920"
+    "image": "assets/products/essential-smart.svg"
   },
   {
     "id": "focus-outdoor",
@@ -68,8 +61,7 @@
     "title": "Focus Outdoor Wall Sconce",
     "description": "Weather-ready accent lighting for entrances.",
     "price": "$159",
-    "image": "assets/products/focus-outdoor.svg",
-    "remote": "https://lutec-lighting.com/cdn/shop/products/2_3b68e7ba-c880-4047-af96-48f5f36e0e4b.jpg?v=1646820718&width=1946"
+    "image": "assets/products/focus-outdoor.svg"
   },
   {
     "id": "sabinar-mini",
@@ -77,8 +69,7 @@
     "title": "Sabinar Mini Pendant",
     "description": "Small-scale pendant for kitchens and bars.",
     "price": "$129",
-    "image": "assets/products/sabinar-mini.svg",
-    "remote": "https://onlinelighting.com.au/images/detailed/204/96981.jpg"
+    "image": "assets/products/sabinar-mini.svg"
   },
   {
     "id": "black-45",
@@ -86,8 +77,7 @@
     "title": "45-Light Black Chandelier",
     "description": "Graphic statement lighting for tall spaces.",
     "price": "$1,249",
-    "image": "assets/products/black-45.svg",
-    "remote": "https://www.wegotlites.com/assets/images/771/771606-01.jpg"
+    "image": "assets/products/black-45.svg"
   },
   {
     "id": "eastyn-starburst",
@@ -95,8 +85,7 @@
     "title": "Eastyn Starburst Chandelier",
     "description": "Layered starburst form with refined finish.",
     "price": "$1,095",
-    "image": "assets/products/eastyn-starburst.svg",
-    "remote": "https://www.visualcomfort.com/media/catalog/product/c/c/cc16612bbs_2.png"
+    "image": "assets/products/eastyn-starburst.svg"
   },
   {
     "id": "elite-globe",
@@ -104,7 +93,6 @@
     "title": "Elite Globe Chandelier",
     "description": "Spherical glass composition for dining rooms.",
     "price": "$1,099",
-    "image": "assets/products/elite-globe.svg",
-    "remote": "https://luxuryliving.nl/cdn/shop/products/Joy-30_2.jpg?v=1677004827"
+    "image": "assets/products/elite-globe.svg"
   }
 ]
