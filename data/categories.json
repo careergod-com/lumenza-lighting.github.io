@@ -3,48 +3,48 @@
     "id": "pendant",
     "name": "Pendant Lights",
     "description": "Focused light with a sculptural presence.",
-    "image": "assets/categories/pendant.svg"
+    "image": "assets/categories/pendant.jpg"
   },
   {
     "id": "floor",
     "name": "Floor Lamps",
     "description": "Tall silhouettes for corners, reading and lounges.",
-    "image": "assets/categories/floor.svg"
+    "image": "assets/categories/floor.jpg"
   },
   {
     "id": "table",
     "name": "Table Lamps",
     "description": "Layered light for desks, nightstands and consoles.",
-    "image": "assets/categories/table.svg"
+    "image": "assets/categories/table.jpg"
   },
   {
     "id": "chandelier",
     "name": "Chandeliers",
     "description": "Centerpieces that define the room.",
-    "image": "assets/categories/chandelier.svg"
+    "image": "assets/categories/chandelier.jpg"
   },
   {
     "id": "wall",
     "name": "Wall Lights",
     "description": "Architectural accents and soft wall washes.",
-    "image": "assets/categories/wall.svg"
+    "image": "assets/categories/wall.jpg"
   },
   {
     "id": "led",
     "name": "LED Lighting",
     "description": "Efficient, low-profile illumination.",
-    "image": "assets/categories/led.svg"
+    "image": "assets/categories/led.jpg"
   },
   {
     "id": "smart",
     "name": "Smart Lighting",
     "description": "Scenes, schedules and connected control.",
-    "image": "assets/categories/smart.svg"
+    "image": "assets/categories/smart.jpg"
   },
   {
     "id": "outdoor",
     "name": "Outdoor",
     "description": "Entry, patio and architectural exterior light.",
-    "image": "assets/categories/outdoor.svg"
+    "image": "assets/categories/outdoor.jpg"
   }
 ]
