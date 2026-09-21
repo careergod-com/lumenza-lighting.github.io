@@ -5,7 +5,9 @@
     "title": "Lente Minimal Pendant",
     "description": "Soft silhouette, warm ambient glow.",
     "price": "$189",
-    "image": "assets/products/lente-minimal.svg"
+    "image": "https://ledarena.pl/hpeciai/60b22bdbe5fc5bd27df52ae16dd65885/pol_pl_Lampa-wiszaca-bezowa-zlota-E27-nad-stol-NOWOCZESNA-1133_17.jpg",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/lente-minimal.jpg"
   },
   {
     "id": "china-led-floor",
@@ -13,7 +15,9 @@
     "title": "China LED Floor Lamp",
     "description": "Slim floor lighting for reading corners.",
     "price": "$249",
-    "image": "assets/products/china-led-floor.svg"
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8475bfb0-4ad2-4b8e-9a13-c102a580bcc7.jpg",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/china-led-floor.jpg"
   },
   {
     "id": "crown-dome",
@@ -21,7 +25,9 @@
     "title": "Crown Dome Table Lamp",
     "description": "Compact task light with sculptural form.",
     "price": "$139",
-    "image": "assets/products/crown-dome.svg"
+    "image": "https://vakkerlight.com/cdn/shop/files/Hanna_Table_Lamp__122.jpg?v=1695432663&width=1600",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/crown-dome.jpg"
   },
   {
     "id": "selene-tier",
@@ -29,7 +35,9 @@
     "title": "Selene Two-Tier Chandelier",
     "description": "Statement centerpiece with layered glass.",
     "price": "$899",
-    "image": "assets/products/selene-tier.svg"
+    "image": "https://favourite-light.com/docs/folder/smb/Photo1500x1500/webp/4503-30P/4503-30P.webp",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/selene-tier.jpg"
   },
   {
     "id": "viegas-wall",
@@ -37,7 +45,9 @@
     "title": "Viegas LED Wall Light",
     "description": "Architectural wall wash for modern rooms.",
     "price": "$179",
-    "image": "assets/products/viegas-wall.svg"
+    "image": "https://onlinelighting.com.au/images/detailed/143/Eglo-Viegas-95422.jpg",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/viegas-wall.jpg"
   },
   {
     "id": "slim-round-led",
@@ -45,7 +55,9 @@
     "title": "Slim Round LED Ceiling Light",
     "description": "Low-profile illumination for everyday spaces.",
     "price": "$119",
-    "image": "assets/products/slim-round-led.svg"
+    "image": "https://lightingnewyork.com/dw/image/v2/BHCF_PRD/on/demandware.static/-/Sites-master-catalog-lny/default/dwe2c38565/brand/mtl/productimages/m10802wh_800x800.jpg?sfrm=jpg&sh=800&sm=fit&sw=800",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/slim-round-led.jpg"
   },
   {
     "id": "essential-smart",
@@ -53,7 +65,9 @@
     "title": "Essential Smart Bulb",
     "description": "App-ready lighting for routines and scenes.",
     "price": "$29",
-    "image": "assets/products/essential-smart.svg"
+    "image": "https://homegard.fr/cdn/shop/files/Francais_Francais_20.jpg?v=1759721299",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/essential-smart.jpg"
   },
   {
     "id": "focus-outdoor",
@@ -61,7 +75,9 @@
     "title": "Focus Outdoor Wall Sconce",
     "description": "Weather-ready accent lighting for entrances.",
     "price": "$159",
-    "image": "assets/products/focus-outdoor.svg"
+    "image": "https://www.simes.it/asset/images/versioni/big/icon_h950_14_led_09.jpg",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/focus-outdoor.jpg"
   },
   {
     "id": "sabinar-mini",
@@ -69,7 +85,9 @@
     "title": "Sabinar Mini Pendant",
     "description": "Small-scale pendant for kitchens and bars.",
     "price": "$129",
-    "image": "assets/products/sabinar-mini.svg"
+    "image": "https://cdn.shopify.com/s/files/1/0012/2005/1002/files/BlackSmall.jpg?v=1747649256",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/sabinar-mini.jpg"
   },
   {
     "id": "black-45",
@@ -77,7 +95,9 @@
     "title": "45-Light Black Chandelier",
     "description": "Graphic statement lighting for tall spaces.",
     "price": "$1,249",
-    "image": "assets/products/black-45.svg"
+    "image": "https://cdn.tanguay.ca/images/products/1920px/0828974.jpg",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/black-45.jpg"
   },
   {
     "id": "eastyn-starburst",
@@ -85,7 +105,9 @@
     "title": "Eastyn Starburst Chandelier",
     "description": "Layered starburst form with refined finish.",
     "price": "$1,095",
-    "image": "assets/products/eastyn-starburst.svg"
+    "image": "https://maisonroseaux.com/cdn/shop/files/R39LHT0048-BLK-M_01.jpg?v=1707291316&width=1920",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/eastyn-starburst.jpg"
   },
   {
     "id": "elite-globe",
@@ -93,6 +115,8 @@
     "title": "Elite Globe Chandelier",
     "description": "Spherical glass composition for dining rooms.",
     "price": "$1,099",
-    "image": "assets/products/elite-globe.svg"
+    "image": "https://www.duttonbrown.com/cdn/shop/files/12-crown-chandelier-32-nickel-barely.jpg?v=1747968635&width=2048",
+    "imageQuality": "high-resolution-product-photo",
+    "localFallback": "assets/products/elite-globe.jpg"
   }
 ]

@@ -3,7 +3,8 @@
 
 /* V4 realistic photography treatment */
 .product-media, .category-image { background: #f2f0eb; overflow: hidden; }
-.product-media > img, .category-image > img { width:100%; height:100%; object-fit:cover; display:block; }
+.product-media > img { width:100%; height:100%; object-fit:contain; display:block; padding:22px; mix-blend-mode:multiply; }
+.category-image > img { width:100%; height:100%; object-fit:cover; display:block; }
 .product-media > img { aspect-ratio: 1 / 1; }
 .category-image > img { aspect-ratio: 4 / 3; }
 .room-card img, .collection-tile img, .design-band img, .editorial-art img { object-fit:cover; }
